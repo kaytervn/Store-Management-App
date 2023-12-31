@@ -1225,6 +1225,3 @@ Chọn nhân viên bằng combobox MaNV
 Lọc doanh thu từ ngày mấy đến ngày mấy. Thanh tổng doanh thu là tổng kết toàn bộ tổng tiền thanh toán thu được của cửa hàng. Thanh “Doanh thu lọc” là tính tổng tiền thanh toán của những hàng có hiện trên bảng doanh thu, còn thanh “Tiền lời lọc” là tính tổng tiền lời trên bảng doanh thu.
 
 ![](/images/Aspose.Words.b441b0ea-0d08-4d4a-9f2f-a13681ac0b8c.018.png)
-
-Trang 76
-
